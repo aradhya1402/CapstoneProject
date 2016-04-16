@@ -1,0 +1,6 @@
+[submodule "QuietServer"]
+	path = QuietServer
+	url = https://github.com/thomasthiebaud/QuietServer.git
+[submodule "QuietAndroid"]
+	path = QuietAndroid
+	url = https://github.com/thomasthiebaud/QuietAndroid.git
