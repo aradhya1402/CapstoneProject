@@ -1,5 +1,10 @@
 # CapstoneProject
 
+## Screenshots
+
+![ScreenShot1 : Details of a report](https://raw.github.com/thomasthiebaud/CapstoneProject/develop/images/Screenshot%201.png)
+![ScreenShot2 : Full notification on incomming call](https://raw.github.com/thomasthiebaud/CapstoneProject/develop/images/Screenshot%203.png)
+
 ## Prerequisites
 
 This readme asumes that you have `git` and a full Android development environment available.
